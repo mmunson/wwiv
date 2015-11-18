@@ -7,13 +7,10 @@ and freeware clients I have used and can recommend:
     Zap-O-Comm
         http://www.emtec.com/zoc/index.html
 
+    NetRunner
+	http://mysticbbs.com/downloads.html
 
-    CRT
-        http://www.vandyke.com/download/index.html
-
-
-    HyperTerm (Personal Edition)
-        http://www.hilgraeve.com/htpe.html
-
+    SYNCTERM
+	http://syncterm.bbsdev.net/
 
 
